@@ -32,7 +32,13 @@ Node Package Manager
 MongoDB     
 React     
 Express     
-GraphQL API      
+GraphQL API        
+MERN    
+PWA   
+Mongoose     
+JWT     
+ 
+## Table of Contents 
 
 ## License
 
