@@ -51,5 +51,5 @@ export const getMe = (token) => {
   };
   
   export const searchTMDB = (query) => {
-    return fetch(`https://api.themoviedb.org/3/search/movie?api_key=24015e7692b811d33d1c989cbd42b043&query=${query}`)
+    return fetch(`https://api.themoviedb.org/3/search/movie?api_key=8b692bc579fc42821a4f57c29575ca25&query=${query}`)
   };
